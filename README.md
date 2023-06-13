@@ -1,10 +1,10 @@
-### Hi there 👋
-
-### :hammer_and_wrench: Languages and Tools :
+### :computer: My statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krsldz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krsldz)](https://github.com/anuraghazra/github-readme-stats)
+### :hammer_and_wrench: Languages and Tools :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krsldz&layout=compact&theme=transparent&hide_border=true)
 
 <h3>Contact me</h3>
 <p><a href="https://www.linkedin.com/in/kriseldzarova/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
