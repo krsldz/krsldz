@@ -1,6 +1,8 @@
-### :computer: My statistics:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krsldz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p>🔭 I’m a frontend developer passionate about creating user-friendly web applications with a mobile-first approach.</p>
+<p>⚡ TypeScript, React, Redux enthusiast. Also dabble in backend with Node.js, MongoDB, and AWS. Love testing with JEST and React Testing Library.</p>
+<p>😄 When I'm not coding, you can find me listening podcasts or learning new languages. Currently I study German.</p>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -12,6 +14,10 @@
 
 <!--
 **krsldz/krsldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### :computer: My statistics:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krsldz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
