@@ -1,6 +1,6 @@
 
-<p>🔭 I’m a frontend developer passionate about creating user-friendly web applications with a mobile-first approach.</p>
-<p>⚡ TypeScript, React, Redux enthusiast. Also dabble in backend with Node.js, MongoDB, and AWS. Love testing with JEST and React Testing Library.</p>
+<p>🔭 I’m a frontend developer passionate about creating user-friendly web applications with mobile-first approach.</p>
+<p>⚡ TypeScript, React, Redux Toolkit enthusiast. Also dabble in backend with Node.js, MongoDB, PostgreSQL, and AWS. Love testing with JEST and React Testing Library.</p>
 <p>😄 When I'm not coding, you can find me listening podcasts or learning new languages. Currently I study German.</p>
 
 
